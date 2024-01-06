@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Bodke</h1>
-<h3 align="center">👋 Hello there! I'm a passionate pre-graduate student with a keen interest in all things data-related. 📊 As someone who thrives on curiosity and loves to learn something new every day, I've embarked on a journey into the vast and exciting world of data.</h3>
+<h3 align="center">I'm a passionate pre-graduate student with a keen interest in all things data-related. 📊 As someone who thrives on curiosity and loves to learn something new every day, I've embarked on a journey into the vast and exciting world of data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmb&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmb" /> </p>
 
