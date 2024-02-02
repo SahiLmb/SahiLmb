@@ -32,7 +32,7 @@
 <span> <h3> 📚 Frameworks and Libraries</h3></span>
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,materialui,tailwind,sklearn,opencv,tensorflow)](https://skillicons.dev)
  <span> <h3> ☁️ Cloud</h3></span>
-[![My Skills](https://skillicons.dev/icons?i=gcp,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
 
 ----
 
