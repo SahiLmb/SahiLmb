@@ -12,8 +12,9 @@
 
 - 🌱 I’m currently learning **Cloud Computing concepts,Next.js,Typescript**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **Open Source Contributions**
 
+- 🤝 I write articles sharing my insights and journey on **[Medium](https://medium.com/@sahilbodke10)**
 - 📫 How to reach me **work.bodke@gmail.com**
 
 ----
