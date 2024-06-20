@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmb&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmb" /> </p>
 
-- 🔭 I’m currently working on **Brain tumor detection using Deep learning**
+- 🔭 I’m currently working on **Mern Stack retail application**
 
-- 🌱 I’m currently learning **Cloud Computing concepts,Next.js,Typescript**
+- 🌱 I’m currently learning **Cloud Computing concepts,Next.js,Typescript,Spring boot**
 
 - 🤝 I’m looking for help with **Open Source Contributions**
 
