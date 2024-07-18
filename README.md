@@ -38,9 +38,20 @@
 
 ----
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilmb&show_icons=true&theme=onedark&locale=en&layout=compact" alt="sahilmb" /></p>
+<h3 align="center">
+  <p> Profile View's</p>
+<div align="center">
+ <img src="https://profile-counter.glitch.me/SahiLmb/count.svg?"  />
+</div>
+<h3/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilmb&show_icons=true&locale=en" alt="sahilmb" /></p>
+
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SahiLmb&locale=en&mode=daily&theme=yeblu&hide_border=false&border_radius=5&order=3" height="auto" width="655" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=SahiLmb&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="auto" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahiLmb&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
+</div>
 
 
 
