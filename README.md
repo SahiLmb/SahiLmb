@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to my GitHub Profile, I'm Sahil Bodke</h1>
-<h3 align="center">Passionate about exploring the intersections of web technologies, machine learning, and cloud computing. Open to connecting with like-minded individuals and experts in the field.
-</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F4FF35&duration=4000&lines=Hi+There!+👋;+I'm+Sahil+Bodke!+;Data+Enthusiast!+;Passionate+Web+Developer!+;" />
+</h1>
 
 ----
 
@@ -8,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmb&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmb" /> </p>
 
-- 🔭 I’m currently working on **Data science projects**
+- 🔭 I’m currently working on **Full stack project**
 
 - 🌱 I’m currently learning **Cloud Computing concepts,Next.js,Typescript,Spring boot**
 
-- 🤝 I’m looking for help with **Open Source Contributions**
+- 💬 Ask me about **Web Development**
 
 - 🤝 I write articles sharing my insights and journey on **[Medium](https://medium.com/@sahilbodke10)**
 - 📫 How to reach me **work.bodke@gmail.com**
@@ -29,11 +30,11 @@
 
  <span> <h2> 💻 Tech Stack</h2></span>
   <span> <h3> 💻 Languages</h3></span>
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,sql)](https://skillicons.dev)
 <span> <h3> 📚 Frameworks and Libraries</h3></span>
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,materialui,tailwind,sklearn,opencv,tensorflow)](https://skillicons.dev)
- <span> <h3> ☁️ Cloud</h3></span>
-[![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+ <span> <h3> ☁️ Cloud and Database</h3></span>
+[![My Skills](https://skillicons.dev/icons?i=gcp,mongodb)](https://skillicons.dev)
 
 ----
 
