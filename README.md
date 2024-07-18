@@ -1,4 +1,6 @@
-<h1 align="center">Welcome to my GitHub Profile, I'm Sahil Bodke</h1>
+<h1 align="center">
+<img height="auto" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEyOTkzMDIsIm5iZiI6MTcyMTI5OTAwMiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE4VDEwMzY0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY4OTFlYjUzNDcyMjAwODI4MGY4ZmRlODQ1OWYyN2ZmY2MxOTc5ZDBlZTU0Y2I3Yzc5NGIzMWQ1N2YyYWVlMWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.LhuY9dbHK80EP9jtJCnBvJlMBe8ZF6iqS9PzghSMj2g" width="500">
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F4FF35&duration=4000&lines=Hi+There!+👋;+I'm+Sahil+Bodke!+;Data+Enthusiast!+;Passionate+Web+Developer!+;" />
 </h1>
@@ -38,8 +40,6 @@
 
 ----
 
-<h3 align="center">
-  <p> Profile View's</p>
 <div align="center">
  <img src="https://profile-counter.glitch.me/SahiLmb/count.svg?"  />
 </div>
