@@ -37,12 +37,6 @@
 
 ----
 
-<div align="center">
- <img src="https://profile-counter.glitch.me/SahiLmb/count.svg?"  />
-</div>
-<h3/>
-
-
 ###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SahiLmb&locale=en&mode=daily&theme=yeblu&hide_border=false&border_radius=5&order=3" height="auto" width="655" alt="streak graph"  />
