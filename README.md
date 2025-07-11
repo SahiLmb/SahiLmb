@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmb&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmb" /> </p>
 
-- 🔭 I’m currently working on a **SQL data retrieval app**
+- 🔭 I’m currently working on a **Real time project using Google Cloud**
 
-- 🌱 I’m currently learning **Data analytics,Next.js,Typescript,Gen AI**
+- 🌱 I’m currently learning **Data analytics,Cloud Technologies,DAX queries,Gen AI**
 
-- 💬 Ask me about **Web Development,Data related stuff**
+- 💬 Ask me about **Data related stuff**
 
 - 🤝 I write articles sharing my insights and journey on **[Medium](https://medium.com/@sahilbodke10)**
 - 📫 How to reach me **work.bodke@gmail.com**
