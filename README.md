@@ -29,11 +29,11 @@
 
  <span> <h2> 💻 Tech Stack</h2></span>
   <span> <h3> 💻 Languages</h3></span>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,ts,sql,mysql)](https://skillicons.dev)
 <span> <h3> 📚 Frameworks and Libraries</h3></span>
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,materialui,tailwind,sklearn,opencv,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,docker,sklearn,opencv,tensorflow,kafka,nextjs,react,tailwind)](https://skillicons.dev)
  <span> <h3> ☁️ Cloud and Database</h3></span>
-[![My Skills](https://skillicons.dev/icons?i=gcp,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,azure)](https://skillicons.dev)
 
 ----
 
