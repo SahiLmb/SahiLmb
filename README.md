@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmb&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmb" /> </p>
 
-- 🔭 I’m currently working on a **Real time fraud detection project using Google Cloud**
+- 🔭 I’m currently working on a **Real time project using Microsoft Azure**
 
 - 🌱 I’m currently learning **Data analytics,Cloud Technologies,DAX queries,Gen AI**
 
